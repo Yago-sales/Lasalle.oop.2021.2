@@ -17,10 +17,6 @@ public class LerNome {
          * teclado.close();
          */
 
-        for (int i = 0; i < 10; i++) {
-            System.out.println(1 + i);
-        }
-
     }
 
 }
